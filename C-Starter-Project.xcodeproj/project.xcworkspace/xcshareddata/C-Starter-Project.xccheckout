@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CF3891EC-4840-4D86-BC02-E98FC43057E9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>C-Starter-Project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FE1533F7E5056640807AE6FD04EA4BFE429B6626</key>
+		<string>github.com:codyzazulak1/FizzBuzzObjC.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>C-Starter-Project.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FE1533F7E5056640807AE6FD04EA4BFE429B6626</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:codyzazulak1/FizzBuzzObjC.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FE1533F7E5056640807AE6FD04EA4BFE429B6626</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FE1533F7E5056640807AE6FD04EA4BFE429B6626</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FizzBuzzObjC</string>
+		</dict>
+	</array>
+</dict>
+</plist>
